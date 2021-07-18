@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAforPrimes", "DAforPrimes\DAforPrimes.csproj", "{D7581F43-F30D-44F3-ADC5-DE87F15D6925}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7581F43-F30D-44F3-ADC5-DE87F15D6925}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7581F43-F30D-44F3-ADC5-DE87F15D6925}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7581F43-F30D-44F3-ADC5-DE87F15D6925}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7581F43-F30D-44F3-ADC5-DE87F15D6925}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A181A15-0C79-43D0-949E-A4CF9C0BE63A}
+	EndGlobalSection
+EndGlobal
